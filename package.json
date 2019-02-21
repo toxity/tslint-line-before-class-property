@@ -1,7 +1,7 @@
 {
   "name": "tslint-line-before-class-property",
   "description": "Custom rule for TSLint to assure that each class property has new line before declaration",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "author": "Ivan Minich (minich.job@gmail.com)",
   "license": "ISC",
   "repository": {
